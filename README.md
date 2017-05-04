@@ -1,1 +1,1 @@
-# 30_days_of_code_hackerrank
+Code commit branch for 30 days of code in hacker rank. 
