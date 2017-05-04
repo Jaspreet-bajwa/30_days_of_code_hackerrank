@@ -12,8 +12,8 @@ public class Solution {
 		Scanner scan = new Scanner(System.in);
 
 		/* Declare second integer, double, and String variables. */
-		int j = Integer.parseInt(scan.next());
-		double k = Double.parseDouble(scan.next());
+		int j = scan.nextInt();
+		double k = scan.nextDouble();
 		scan.nextLine();
 		String str = scan.nextLine();
 		/* Read and save an integer, double, and String to your variables. */
