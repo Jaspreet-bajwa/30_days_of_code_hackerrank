@@ -1,1 +1,1 @@
-Code commit branch for 30 days of code in hacker rank. 
+Code commit branch for Hackerrank Challenges.
